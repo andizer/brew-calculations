@@ -22,6 +22,18 @@ export const gravityIsInRange =( value ) => {
 };
 
 /**
+ * Gets the proper gravity points.
+ *
+ * @param {number} gravity The current gravity value.
+ *
+ * @returns {number} The proper gravity points value.
+ */
+export const getGravityPoints = ( gravity ) => {
+    return gravity - 1000;
+};
+
+
+/**
  * Normalizes the given gravity value.
  *
  * @param {number|string} value The current value.

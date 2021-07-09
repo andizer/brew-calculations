@@ -5,3 +5,4 @@ export { formatNumber } from "./formatNumber";
 export { formatPercentage } from "./formatPercentage";
 export * from "./gravity";
 export * from "./temperature";
+export * from "./volume";
