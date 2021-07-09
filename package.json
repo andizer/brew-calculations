@@ -1,0 +1,10 @@
+{
+  "name": "@andizer/brew-calculations",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andizer/brew-calculations"
+  },
+  "author": "Andy Meerwaldt"
+}
