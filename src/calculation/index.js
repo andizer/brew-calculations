@@ -1,3 +1,4 @@
+import {potentialSugars} from "./potentialSugars";
 
 export { calculateAlcoholPercentage } from "./alcoholPercentage";
 export { calculateAttenuation } from "./attenuation";
@@ -6,4 +7,5 @@ export { convertGravityPlato } from "./convertGravityPlato";
 export { convertPlatoGravity } from "./convertPlatoGravity";
 export { correctHydrometerTemperature } from "./correctHydrometerTemperature";
 export { calculateGravityCorrection } from "./gravityCorrection";
+export { calculatePotentialSugars } from "./potentialSugars";
 

@@ -10,3 +10,4 @@ export * from "./gravity";
 export * from "./plato";
 export * from "./temperature";
 export * from "./volume";
+export * from "./weight";
