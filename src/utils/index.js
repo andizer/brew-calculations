@@ -7,6 +7,7 @@ export { formatPercentage } from "./formatPercentage";
 export { roundNumber } from "./roundNumber";
 
 export * from "./gravity";
+export * from "./litersToGallons";
 export * from "./plato";
 export * from "./temperature";
 export * from "./volume";
